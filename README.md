@@ -1,2 +1,5 @@
 # Jebac
-Jebe
+
+Cao svima!
+
+Jebem vam mater!
